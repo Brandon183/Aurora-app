@@ -1,2 +1,2 @@
-# Aurora-app
+#Aurora-app
 Aplicación de dibujos llamada aurora
